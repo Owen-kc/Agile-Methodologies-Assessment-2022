@@ -30,7 +30,7 @@ public class ParkingGarageTest extends TestCase {
 
     public void testParkingCost003(){
         ParkingGarage testObj = new ParkingGarage();
-        assertEquals(-99, testObj.ParkingCost(25.00));
+        assertEquals(-99.0, testObj.ParkingCost(25.00));
     }
 
     ///Test: 4
