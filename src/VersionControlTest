@@ -1,15 +1,6 @@
 This is my version control test file, I should be able to see this on GitHub. Hello.
 
 
-below 0 - invalid and false
-divisible by 400 - true
-divisible by 100 and not 400 - false
-divisible by 4 and not 100 - true
-not divisible by 4 - false
 
-if year % 400 == 0
-return true
-
-if year % 100 ==
 
 
